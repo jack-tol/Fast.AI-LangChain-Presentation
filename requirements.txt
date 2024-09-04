@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-pinecone
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+sentence-transformers
+pypdf
