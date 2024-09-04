@@ -50,3 +50,7 @@ This README provides the steps necessary to run the code presented in the LangCh
 
 ### 8. Run the Notebook
 - That's it! You can now run all the cells in the notebook and create your own notebook-based textbook RAG pipeline.
+
+*This presentation was presented live on June 29, 2024, and the video is available on YouTube at [https://www.youtube.com/watch?v=D11C8MrFEUk](https://www.youtube.com/watch?v=D11C8MrFEUk).*
+
+This presentat
