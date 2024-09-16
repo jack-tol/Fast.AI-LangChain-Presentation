@@ -6,3 +6,4 @@ langchain-anthropic
 langchain-huggingface
 sentence-transformers
 pypdf
+neo4j
