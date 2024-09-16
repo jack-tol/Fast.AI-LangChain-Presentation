@@ -22,31 +22,31 @@ This README provides the steps necessary to run the code presented in the LangCh
 
 ### 5. Create a Virtual Environment
 - Run the following command to create a virtual environment:
-  BACKTICKS_HEREbash
+  ```Ebash
   python -m venv venv
-  BACKTICKS_HERE
+  ```
 - Enter and activate your virtual environment:
   - On Windows:
-    BACKTICKS_HEREbash
+    ```Ebash
     .\venv\Scripts\activate
-    BACKTICKS_HERE
+    ```
   - On macOS/Linux:
-    BACKTICKS_HEREbash
+    ```bash
     source venv/bin/activate
-    BACKTICKS_HERE
+    ```
 
 ### 6. Install Required Packages
 - Install the required packages using the `requirements.txt` file:
-  BACKTICKS_HEREbash
+  ```bash
   pip install -r requirements.txt
-  BACKTICKS_HERE
+  ```
 
 ### 7. Install PyTorch with CUDA
 - Visit [PyTorch's official website](https://pytorch.org/get-started/locally/) and get the command for your particular setup to install PyTorch with CUDA enabled in your virtual environment.
   - **For example:** On my setup, I used:
-    BACKTICKS_HEREbash
+    ```bash
     pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-    BACKTICKS_HERE
+    ```
 
 ### 8. Run the Notebook
 - That's it! You can now run all the cells in the notebook and create your own notebook-based textbook RAG pipeline.
