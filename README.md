@@ -1,4 +1,4 @@
-# LangChain Code Walkthrough
+# Fast.AI LangChain Presentation
 
 This README provides the steps necessary to run the code presented in the LangChain introduction and code walkthrough. Follow these instructions to set up your environment and execute the notebook.
 
